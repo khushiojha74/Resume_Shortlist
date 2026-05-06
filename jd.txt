@@ -1,0 +1,14 @@
+Looking for an AI Engineer with hands-on experience in RAG, NLP, and backend development to build scalable AI-powered systems.
+
+⚙️ Responsibilities
+Build RAG-based semantic search & QA systems
+Develop document processing pipelines
+Work with vector databases
+Develop FastAPI services and deploy using Docker & AWS
+
+🛠️ Skills
+Python, FastAPI
+LangChain, RAG, NLP, NER
+FAISS / ChromaDB (vector search)
+OCR (Tesseract), OpenCV
+Docker, AWS
